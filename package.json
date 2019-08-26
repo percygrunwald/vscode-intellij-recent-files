@@ -18,6 +18,7 @@
 		"onCommand:extension.intellijRecentFiles"
 	],
 	"main": "./out/extension.js",
+	"extensionKind": "ui",
 	"contributes": {
 		"commands": [
 			{
