@@ -31,11 +31,6 @@ Make sure the following bindings are in your `keybindings.json` (adjust for your
         "when": "inQuickOpen"
     },
     {
-        "key": "cmd+e",
-        "command": "workbench.action.quickOpenNavigateNext",
-        "when": "inQuickOpen"
-    },
-    {
         "key": "shift+cmd+e",
         "command": "workbench.action.quickOpenNavigatePrevious",
         "when": "inQuickOpen"
