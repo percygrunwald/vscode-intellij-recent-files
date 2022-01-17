@@ -4,4 +4,6 @@ All notable changes to the "vscode-intellij-recent-files" extension will be docu
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [v1.0.0]
 - Initial release
