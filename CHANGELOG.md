@@ -5,5 +5,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [v1.0.1]
+- Update packages
+
 ## [v1.0.0]
 - Initial release
