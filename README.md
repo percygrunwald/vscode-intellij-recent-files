@@ -53,3 +53,5 @@ npm install
 ```
 
 `Start Debugging` in VS Code with `F5`.
+
+Follow [these instructions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) to publish the extension.
