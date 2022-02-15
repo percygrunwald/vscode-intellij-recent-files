@@ -26,6 +26,20 @@
         "command": "extension.intellijRecentFiles",
         "title": "IntelliJ Recent Files"
       }
+    ],
+    "configuration": [
+      {
+        "id": "intellijRecentFiles",
+        "title": "IntelliJ Recent Files",
+        "properties": {
+          "intellijRecentFiles.navigate": {
+            "type": "boolean",
+            "default": true,
+            "description": "Immediately navigate after releasing the modifier key",
+            "scope": "window"
+          }
+        }
+      }
     ]
   },
   "scripts": {
