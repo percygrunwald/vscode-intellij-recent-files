@@ -38,6 +38,24 @@ Make sure the following bindings are in your `keybindings.json` (adjust for your
     ...
 ```
 
+### Settings
+
+The following settings can be added to your user `settings.json` to modify the behavior of the extension:
+
+#### intellijRecentFiles.navigate
+
+```
+# settings.json
+
+"intellijRecentFiles.navigate": [true|false]
+```
+
+Valid values: `true` (default), `false`
+
+When set to `true`, pressing the keybinding will navigate to the selected file immediately after releasing the modifier key (e.g. `cmd`) allowing for "alt+tab style" behavior.
+
+When set to `false`, pressing the keybinding will open the recent files dialogue, navigate to the second item in the list, but won't navigate to the file after releasing the modifier key. The dialogue box stays open, allowing you to search the list.
+
 ## Development
 
 Install tools with [asdf](http://asdf-vm.com/):
