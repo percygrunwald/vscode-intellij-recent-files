@@ -5,6 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [v1.1.0]
+- Adds `intellijRecentFiles.navigate` setting
+
 ## [v1.0.1]
 - Update packages
 
