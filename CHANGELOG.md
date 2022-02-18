@@ -5,6 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [v1.1.1]
+- Adds icon for extension
+
 ## [v1.1.0]
 - Adds `intellijRecentFiles.navigate` setting
 
