@@ -4,6 +4,7 @@
   "description": "IntelliJ-style recent files command for VS Code.",
   "publisher": "percygrunwald",
   "license": "MIT",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/percygrunwald/vscode-intellij-recent-files"
